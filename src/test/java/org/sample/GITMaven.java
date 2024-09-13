@@ -3,6 +3,7 @@ package org.sample;
 public class GITMaven {
 
 	public void method7() {
+		
 		System.out.println("7");
 
 	}
@@ -52,6 +53,17 @@ public class GITMaven {
 	public void method6() {
 
 		System.out.println("6");
+
+	}
+	public void method10() {
+
+		System.out.println("10");
+
+	}
+	
+	public void method11() {
+
+		System.out.println("11");
 
 	}
 
